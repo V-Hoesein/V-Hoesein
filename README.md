@@ -87,3 +87,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=V-Hoesein&bg_color=1a1b27&color=be90f2&line=9b59b6&point=f1c40f&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
+
+---
+
+![snake gif](https://github.com/V-Hoesein/V-Hoesein/blob/output/github-contribution-grid-snake-dark.svg)
