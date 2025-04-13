@@ -19,8 +19,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?background=transparent
-
+            dist/github-contribution-grid-snake.svg?background=transparent&palette=github-dark&style=block
 
       - name: Push the generated snake
         uses: crazy-max/ghaction-github-pages@v4
