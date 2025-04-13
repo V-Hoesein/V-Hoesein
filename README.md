@@ -1,16 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Van Husein</h1>
 <h3 align="center">Technology enthusiast, especially passionate about web development</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=V-Hoesein&label=Profile%20views&color=0e75b6&style=flat" alt="V-Hoesein" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=V-Hoesein&theme=onedark&margin-w=10&margin-h=10" alt="V-Hoesein" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -57,6 +47,18 @@
   <a href="https://docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
   <!-- Add more as needed -->
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=V-Hoesein&label=Profile%20views&color=0e75b6&style=flat" alt="V-Hoesein" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=V-Hoesein&theme=onedark&margin-w=10&margin-h=10" alt="V-Hoesein" />
+  </a>
 </p>
 
 ---
