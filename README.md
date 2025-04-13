@@ -65,20 +65,7 @@
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Hoesein&layout=compact&theme=onedark" alt="Top Languages" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=V-Hoesein&show_icons=true&theme=onedark" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=V-Hoesein&theme=onedark" alt="GitHub Streak" />
-</p>
+<table align="center"> <tr> <td align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Hoesein&layout=compact&theme=onedark&langs_count=10&hide=css,html" alt="Top Languages" /> </td> <td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=V-Hoesein&show_icons=true&theme=onedark&count_private=true&hide_rank=false" alt="GitHub Stats" /> </td> </tr> </table> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=V-Hoesein&theme=onedark" alt="GitHub Streak" /> </p>
 
 ---
 
