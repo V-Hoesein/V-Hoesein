@@ -70,33 +70,36 @@ const Husein: Engineer = {
 
 ---
 
-### ⚙️ Tech Stack
+### 🛠️ Tech Stack
 
-<div align="center">
-
-**Frontend & State Management**
-<br>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,zustand,redux,tailwind,html,css"/>
-
-<br><br>
-
-**Backend & Frameworks**
-<br>
-<img src="https://skillicons.dev/icons?i=nestjs,hono,nodejs,express,laravel,php,python"/>
-
-<br><br>
-
-**Database & Infrastructure**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,githubactions,linux"/>
-
-<br><br>
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=vercel,vscode,postman,figma"/>
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Frontend & State</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,bootstrap,html,css" alt="Frontend Skills" />
+      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" height="40" style="vertical-align: top; margin-left: 2px;" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend & Frameworks</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,php,python" alt="Backend Skills" />
+      <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono.js" height="40" style="vertical-align: top; margin-left: 2px;" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Database & Infra</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,githubactions,linux" alt="Database and Infra" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts,vercel,vscode,postman,figma,jest,cypress" alt="Tools" />
+    </td>
+  </tr>
+</table>
 
 ---
 
